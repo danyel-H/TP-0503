@@ -1,0 +1,18 @@
+Bonjour,
+
+Le contenu de ce dossier regroupe l'ensemble de mes travaux sur le projet
+
+Afin qu'il fonctionne convenablement, voici l'ordre dans lesquels les programmes doivent être executés :
+ServeurGestionnaire / ServeurBO
+Puis Gestionnaire de Port (GestionPort)
+
+Vous pouvez ensuite accéder aux fonctionnalités à l'aide d'un serveur Web et du dossier "Portail" 
+
+Afin de tester, j'ai laissé des données de Test
+
+Nom du port de test: Dunkerque
+Nom du login de test : Paul, mdp : 1234
+
+Il y'a aussi un propriétaire de Bateau nommé Pierre avec le mdp 1234, vous pourrez alors voir mes travaux sur le portail.
+
+Bonne visite

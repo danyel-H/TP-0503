@@ -1,0 +1,14 @@
+{"utilisateurs": [
+   {
+      "grade": "1",
+      "mdp": "1234",
+      "id": "1",
+      "login": "Paul"
+   },
+   {
+      "grade": "2",
+      "mdp": "1234",
+      "id": "2",
+      "login": "Pierre"
+   }
+]}

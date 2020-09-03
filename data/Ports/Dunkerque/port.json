@@ -1,0 +1,86 @@
+{
+   "proprietaire": 1,
+   "nom": "Dunkerque",
+   "Places": [
+      {
+         "longueur": "6",
+         "Prise": "3249"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      },
+      {
+         "longueur": "6",
+         "Prise": "false"
+      }
+   ]
+}
